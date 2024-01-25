@@ -8,9 +8,9 @@ local ChatServiceModule = require(ChatServiceRunner:WaitForChild("ChatService", 
 
 local CONFIG = {
    Phrases = {
-      "fuck",
-      "shit",
-      "gay",
+      "skibidi",
+      "rizz",
+      "fanum",
    },
    spamAmount = 1000,
 }
